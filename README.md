@@ -2,7 +2,7 @@
 Links, resources and demos for my past presentations.
 
 ## 2019
-- **Nov:** Umbraco UK Festival - WTFE?! What the Front End (coming soon)
+- **Nov:** Umbraco UK Festival - [WTFE?! What the Front End](https://docs.google.com/presentation/d/1OQgGyzcQB6pNklcTz-0kU5UJOldKeOwv-ET_jmvIiTM/edit?usp=sharing)
 
 ## 2018
 - **Oct:** umBristol - [CODECABIN18](https://slides.com/karltynan/codecabin18)
